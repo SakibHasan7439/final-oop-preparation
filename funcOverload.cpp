@@ -49,4 +49,7 @@ int main(){
 
     p =& F;
     F.calSalary();
+
+    p =& I;
+    I.calSalary();
 };
